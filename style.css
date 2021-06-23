@@ -33,3 +33,7 @@ span {
   font-weight: bold;
   color: blue;
 }
+
+figcaption {
+  font-weight: bold;
+}
